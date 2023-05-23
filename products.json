@@ -1,0 +1,131 @@
+[
+    {
+       "title":"Alfajor",
+       "description":"Este es un producto prueba",
+       "category":"Snacks",
+       "price":100,
+       "thumbnails":[
+          "public/alfajor.png"
+       ],
+       "code":"alfajor",
+       "stock":25,
+       "id":1,
+       "status":"true"
+    },
+    {
+       "title":"Cheetos",
+       "description":"Este es otro producto prueba",
+       "price":350,
+       "thumbnails":[
+          "public/cheetos.jpg"
+       ],
+       "code":"cheetos",
+       "stock":100,
+       "id":2,
+       "status":"true"
+    },
+    {
+       "title":"Coca-Cola",
+       "description":"Este es otro producto prueba",
+       "category":"Bebidas",
+       "price":300,
+       "thumbnails":[
+          "public/cocacola.jpg"
+       ],
+       "code":"cocacola",
+       "stock":100,
+       "id":3,
+       "status":"true"
+    },
+    {
+       "title":"Sprite",
+       "description":"Este es otro producto prueba",
+       "category":"Bebidas",
+       "price":300,
+       "thumbnails":[
+          "public/sprite.jpg"
+       ],
+       "code":"sprite",
+       "stock":100,
+       "id":4,
+       "status":"true"
+    },
+    {
+       "title":"Pepsi",
+       "description":"Este es otro producto prueba",
+       "category":"Bebidas",
+       "price":300,
+       "thumbnails":[
+          "public/pepsi.jpg"
+       ],
+       "code":"pepsi",
+       "stock":100,
+       "id":5,
+       "status":"true"
+    },
+    {
+       "title":"Bombon",
+       "description":"Este es otro producto prueba",
+       "category":"Golosinas",
+       "price":150,
+       "thumbnails":[
+          "public/bombon.png"
+       ],
+       "code":"bombon",
+       "stock":100,
+       "id":6,
+       "status":"true"
+    },
+    {
+       "title":"Rex",
+       "description":"Este es otro producto prueba",
+       "category":"Snacks",
+       "price":350,
+       "thumbnails":[
+          "public/rex.jpg"
+       ],
+       "code":"rex",
+       "stock":100,
+       "id":7,
+       "status":"true"
+    },
+    {
+       "title":"Coca-Cola Mundial",
+       "description":"Este es otro producto prueba",
+       "category":"Bebidas",
+       "price":450,
+       "thumbnails":[
+          "public/cocacola-mundial.jpg"
+       ],
+       "code":"cocacolamundial",
+       "stock":100,
+       "id":8,
+       "status":"true"
+    },
+    {
+       "title":"Gomitas",
+       "description":"Este es otro producto prueba",
+       "category":"Golosinas",
+       "price":150,
+       "thumbnails":[
+          "public/gomitas.png"
+       ],
+       "code":"gomitas",
+       "stock":100,
+       "id":9,
+       "status":"true"
+    },
+    {
+       "title":"Chupetin",
+       "description":"Este es otro producto prueba",
+       "category":"Golosinas",
+       "price":100,
+       "thumbnails":[
+          "public/chupetin.jpg"
+       ],
+       "code":"chupetin",
+       "stock":100,
+       "id":10,
+       "status":"true"
+    }
+ ]
